@@ -1,1 +1,3 @@
-0x00-shell_basics
+the absolute path name of the current working directory
+Display the contents list of your current directory
+
