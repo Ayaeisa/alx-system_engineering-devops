@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x hellio
+chmod u+x hello
