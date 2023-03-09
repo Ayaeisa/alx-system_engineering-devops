@@ -6,3 +6,4 @@ Display current directory contents, including hidden files (starting with .). Us
 Display current directory contents.
 ithat creates a directory named my_first_directory in the /tmp/ directory
 Move the file betty from /tmp/ to /tmp/my_first_directory
+Delete the directory my_first_directory that is in the /tmp directory.
